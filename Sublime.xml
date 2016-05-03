@@ -51,13 +51,12 @@
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift meta k" />
-    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
   </action>
   <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
